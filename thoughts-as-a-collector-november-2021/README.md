@@ -73,12 +73,12 @@ https://twitter.com/_NaokiSaito/status/1462286125611978758
 
 比較的短期間に大量の作品を出品しているのです。コレクターの中には、このことが作品の価値を下げていると主張する人もいます。現実的な期待に応えれば、そんなことはないと思います。Benangbajaが特殊なケースというわけではなく、他にもこのような戦略をとっているところはあるのですが、記憶に新しいので取り上げてみます。彼は、静止画を0.30 ETHで出品しています。今現在、購入できる彼の作品は1つだけ、それはアニメーションで0.50 ETHで出品されています。この価格帯は、すでにイーサリアムNFT市場に参加している多くの人々にとって、そこそこ入札しやすい価格帯です。データを見てみると、面白いことが起きているのがわかります。
 
-![Benangbaja 1](thoughts-as-a-collector-november-2021-1.png)
+![Benangbaja 1](thoughts-as-a-collector-november-2021-2.png)
 
 販売された20個のうち、最低入札価格で売れたのは6個だけだった。
 すべての作品の平均値は、0.48652 ETHです。
 
-![Benangbaja 2](thoughts-as-a-collector-november-2021-2.png)
+![Benangbaja 2](thoughts-as-a-collector-november-2021-3.png)
 
 全作品が売れています。
 
