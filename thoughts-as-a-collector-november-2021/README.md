@@ -127,7 +127,7 @@ NFTに参加するアーティストの肩には、この界隈に存在する�
 
 ---
 
-私よりも全体像の視点を持つ他のコレクター（包括的なリストではありません、もっとたくさんいます）：[shiomu](https://twitter.com/shiomueth)、[palis](https://twitter.com/curvethots)、[kaijuking779](https://twitter.com/kaijuking779)[、justaziz](https://twitter.com/_JustAziz_)、[morello](https://twitter.com/morellostorment)、[kiwi](https://twitter.com/0xKiwi_)、[omar](https://twitter.com/OmarIbisa)、[impostor](https://twitter.com/cantfakesigs)。私は彼らから多くを学びました。（🐷：全員、Foundation や ANIFTY でよく見るコレクターさんです）
+私よりも全体像の視点を持つ他のコレクター（包括的なリストではありません、もっとたくさんいます）：[shiomu](https://twitter.com/shiomueth)、[palis](https://twitter.com/curvethots)、[kaijuking779](https://twitter.com/kaijuking779)[、justaziz](https://twitter.com/_JustAziz_)、[morello](https://twitter.com/morellostorment)、[kiwi](https://twitter.com/0xKiwi_)、[omar](https://twitter.com/OmarIbisa)、[impostor](https://twitter.com/cantfakesigs)。私は彼らから多くを学びました。（🐷：全員、FoundationやANIFTYでよく見るコレクターさんです）
 
 私のことをもっと知りたい方は、私の友人JL Maxcyさんが私のコレクションのキュレーションを通して素晴らしい記事を書いています。
 
